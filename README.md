@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Israel Fargas and I'm Spain</h2>
+<h2 align="left">Hi 👋! My name is Israel Fargas and I'm  from Spain</h2>
 
 ###
 
