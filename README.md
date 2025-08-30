@@ -43,9 +43,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/israelfargasasquith/count.svg?"  />
-</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=israelfargasasquith&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
